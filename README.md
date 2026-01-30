@@ -6,10 +6,9 @@
 <h2 align="center">Hi, I’m Pranitha 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=650&lines=Software+Engineer;Machine+Learning+Engineer;ML+Practitioner;Research+Interests%3A+Reliable+and+Efficient+ML;Turning+ideas+into+shippable+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+Machine+Learning+Research+Aspirant;Research +Oriented+Builder;From+prototype+to+production" />
 </p>
 
-<h2 align="center">Hi, I’m Pranitha 👋</h2>
 <p align="center">
   Software Engineer • Machine Learning Engineer • Python + SQL
 </p>
