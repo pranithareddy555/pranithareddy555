@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
 <h2 align="center">Hi, I’m Pranitha 👋</h2>
