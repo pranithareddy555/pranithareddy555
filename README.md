@@ -1,6 +1,12 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome&fontAlign=50&fontAlignY=35&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome&fontAlign=50&fontAlignY=35&color=gradient" />
+</p>
+
+<h2 align="center">Hi, I’m Pranitha 👋</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=650&lines=Software+Engineer;Machine+Learning+Engineer;ML+Practitioner;Research+Interests%3A+Reliable+and+Efficient+ML;Turning+ideas+into+shippable+systems" />
 </p>
 
 <h2 align="center">Hi, I’m Pranitha 👋</h2>
