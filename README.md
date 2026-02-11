@@ -30,6 +30,17 @@
 
 ---
 
+## 🎯 Interests
+I’m interested in future AI research focused on **reliable machine learning**, **efficient model training**, and **deployment-ready systems**.  
+I’m also exploring **Ph.D opportunities** and enjoy learning about:
+- **AI / ML research**
+- **NLP**
+- **Deep Learning**
+- **Reinforcement Learning**
+- **Quantum Computing (curious learner)**
+
+---
+
 ## 🧰 Tech Stack
 **Languages:** Python • SQL • Java • C/C++  
 **ML/Data:** scikit-learn • TensorFlow • Pandas • NumPy • Model Evaluation • Hyperparameter Tuning  
@@ -45,6 +56,8 @@
 - **Ad Click Prediction** — binary classification pipeline with feature engineering + model comparison  
 - **Smart Grid Attack Detection** — Perceptron/SVM/KNN classification with reproducible evaluation  
 - **Low-Data Breast Cancer Classification** — TensorFlow models trained on 5%/10% subsets
+- **K-Core Decomposition (NetworkX)** — random graphs + k-core visualization and trends  
+
 
 👉 Portfolio projects: **https://pranithareddy555.github.io/pranitha-portfolio/**
 
