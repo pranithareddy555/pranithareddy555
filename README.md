@@ -80,14 +80,13 @@ I’m also exploring **Ph.D opportunities** and enjoy learning about:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranithareddy555&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranithareddy555&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="Overall Stats" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranithareddy555&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranithareddy555&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithareddy555&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranithareddy555&theme=github-dark&hide_border=true" height="165" alt="Contribution Streak" />
 </p>
-
 
 
 
