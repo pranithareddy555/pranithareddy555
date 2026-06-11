@@ -78,7 +78,7 @@ I’m also exploring **Ph.D opportunities** and enjoy learning about:
 
 ---
 
-## 📊 GitHub Stats
+<!## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranithareddy555&theme=github_dark" />
 </p>
@@ -87,7 +87,7 @@ I’m also exploring **Ph.D opportunities** and enjoy learning about:
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranithareddy555&theme=github_dark" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranithareddy555&theme=github_dark" />
 </p>
-
+!>
 
 
 
